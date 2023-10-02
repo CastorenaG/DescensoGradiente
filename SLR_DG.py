@@ -9,7 +9,7 @@ data = pd.read_csv("C:\\Salary_dataset.csv")
 years_of_experience = data['YearsExperience']
 salary = data['Salary']
 
-# Inicializar valores de m y b aleatoriamente o con valores iniciales razonables
+# Inicializar valores de m y b aleatoriamente 
 m = np.random.randn()
 b = np.random.randn()
 
