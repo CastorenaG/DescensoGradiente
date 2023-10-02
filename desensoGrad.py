@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 def funcion_a_optimizar(x1, x2):
     return 10 - np.exp(-(x1**2 + 3*x2**2))
 
-# Función para calcular el gradiente de la función con respecto a x1 y x2
+# Función para calcular el gradiente de la función
 def calcular_gradiente(func, x1, x2, epsilon=1e-5):
     grad_x1 = (func(x1 + epsilon, x2) - func(x1, x2)) / epsilon
     grad_x2 = (func(x1, x2 + epsilon) - func(x1, x2)) / epsilon
