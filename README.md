@@ -58,10 +58,3 @@ Asegúrate de tener las siguientes bibliotecas instaladas antes de ejecutar los 
 
 Si deseas contribuir a este proyecto, siéntete libre de hacer un fork y enviar una solicitud de extracción. Estamos abiertos a mejoras, correcciones de errores y nuevas características.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más información.
-
----
-
-¡Espero que este README te ayude a describir tus programas en GitHub! Asegúrate de personalizarlo según tus necesidades y proporcionar más detalles si es necesario.
